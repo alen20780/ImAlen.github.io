@@ -4,7 +4,7 @@ body {
   padding: 0;
   font-family: sans-serif;
   min-height: 100vh;
-  background-image: url('../asset/cat.webp'); /* 👈 Replace this path with your actual image path */
+  background-image: url('../asset/curvy.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
